@@ -1,0 +1,11 @@
+# Legumes for the weekly bean/lentil dish. weight 1-5; see README.md.
+- {name: lentils,          weight: 5}
+- {name: chickpeas,        weight: 5}
+- {name: kidney beans,     weight: 3}
+- {name: green peas,       weight: 3}
+- {name: split peas,       weight: 3}
+- {name: black-eyed peas,  weight: 3}
+- {name: black beans,      weight: 3}
+- {name: cannellini beans, weight: 2}
+- {name: pinto beans,      weight: 2}
+- {name: lima beans,       weight: 2}

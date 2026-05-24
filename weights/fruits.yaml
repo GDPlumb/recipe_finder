@@ -1,0 +1,16 @@
+# Fruits for low-added-sugar desserts. weight 1-5; see README.md.
+- {name: apples,       weight: 5}
+- {name: pears,        weight: 5}
+- {name: mango,        weight: 5}
+- {name: bananas,      weight: 4}
+- {name: peaches,      weight: 4}
+- {name: pineapple,    weight: 4}
+- {name: plums,        weight: 4}
+- {name: raspberries,  weight: 3}
+- {name: cherries,     weight: 3}
+- {name: blueberries,  weight: 3}
+- {name: strawberries, weight: 3}
+- {name: oranges,      weight: 3}
+- {name: grapes,       weight: 3}
+- {name: dates,        weight: 2}
+- {name: figs,         weight: 2}

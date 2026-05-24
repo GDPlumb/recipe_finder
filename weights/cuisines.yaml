@@ -1,0 +1,15 @@
+# Cuisines, sampled as a variety axis. weight 1-5; see README.md.
+- {name: mediterranean,  weight: 5}
+- {name: indian,         weight: 5}
+- {name: mexican,        weight: 4}
+- {name: italian,        weight: 4}
+- {name: thai,           weight: 4}
+- {name: chinese,        weight: 4}
+- {name: middle eastern, weight: 4}
+- {name: spanish,        weight: 3}
+- {name: korean,         weight: 3}
+- {name: vietnamese,     weight: 3}
+- {name: moroccan,       weight: 3}
+- {name: japanese,       weight: 3}
+- {name: french,         weight: 2}
+- {name: american,       weight: 2}

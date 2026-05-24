@@ -1,0 +1,11 @@
+# Proteins. weight 1-5; see README.md for the scale and rationale.
+- {name: chicken,         weight: 5}
+- {name: tofu,            weight: 5}
+- {name: turkey,          weight: 4}
+- {name: tempeh,          weight: 4}
+- {name: eggs,            weight: 3}
+- {name: edamame,         weight: 3}
+- {name: paneer,          weight: 3}
+- {name: pork tenderloin, weight: 2}
+- {name: lean beef,       weight: 2}
+- {name: lamb,            weight: 1}

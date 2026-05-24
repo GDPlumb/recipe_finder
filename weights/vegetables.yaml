@@ -1,0 +1,21 @@
+# Vegetables that can anchor a dinner. weight 1-5; see README.md.
+- {name: broccoli,         weight: 5}
+- {name: cauliflower,      weight: 5}
+- {name: mushrooms,        weight: 4}
+- {name: bell peppers,     weight: 4}
+- {name: eggplant,         weight: 4}
+- {name: zucchini,         weight: 4}
+- {name: tomatoes,         weight: 4}
+- {name: winter squash,    weight: 3}
+- {name: cabbage,          weight: 3}
+- {name: brussels sprouts, weight: 3}
+- {name: green beans,      weight: 3}
+- {name: asparagus,        weight: 3}
+- {name: arugula,          weight: 3}
+- {name: collard greens,   weight: 3}
+- {name: sweet potato,     weight: 3}
+- {name: spinach,          weight: 2}
+- {name: kale,             weight: 2}
+- {name: carrots,          weight: 2}
+- {name: potato,           weight: 2}
+- {name: swiss chard,      weight: 2}
