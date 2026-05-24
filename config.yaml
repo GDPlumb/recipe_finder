@@ -1,0 +1,15 @@
+# Planner parameters for plan_week.py.
+
+target_dinners: 2        # dinners you'll actually cook each week
+dinner_candidates: 4     # candidate dinners the LLM proposes (you pick target_dinners)
+
+# Pool sizes: how many of each to offer the LLM to combine into dinners. Bigger pools give the
+# LLM more freedom (and more room to retreat to comfort picks); smaller pools force novelty.
+# This is the main variety dial.
+pool:
+  proteins: 3
+  vegetables: 5
+  cuisines: 3
+
+legume_options: 2        # legume choices offered for the weekly legume dish
+dessert_options: 2       # fruit choices offered for the dessert
