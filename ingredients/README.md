@@ -1,4 +1,4 @@
-# Weights
+# Ingredients
 
 These files are the tunable priors the recipe planner samples from. Each week the planner draws
 a weighted-random *pool* of ingredients and cuisines from here; an LLM then assembles coherent
