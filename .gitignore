@@ -216,3 +216,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Recipe library — personal; keep only the template tracked
+recipes/*.md
+!recipes/_TEMPLATE.md

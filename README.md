@@ -22,6 +22,8 @@ Then:
 
 1. Paste the prompt into a Claude session **with web search enabled**.
 2. Pick the dinners, legume dish, and dessert you like from the recipe links it returns.
+3. Save each recipe block Claude outputs to the `recipes/<filename>` it suggests — that's your
+   library, and later prompts draw on it (what you've made, liked, and disliked).
 
 ## Config
 

@@ -1,9 +1,9 @@
-We're planning this week's dinners. Use web search to find REAL, published recipes and link to
-them. Do NOT invent recipes or make up URLs — only return recipes from pages you actually found,
-preferably from reputable sources (NYT Cooking, Serious Eats, Bon Appetit, BBC Good Food,
-Smitten Kitchen, America's Test Kitchen, established food blogs).
+Today is {today}. We're planning this week's dinners. Use web search to find REAL, published
+recipes and link to them — do NOT invent recipes or make up URLs; only return recipes from pages
+you actually found, preferably from reputable sources (NYT Cooking, Serious Eats, Bon Appetit,
+BBC Good Food, Smitten Kitchen, America's Test Kitchen, established food blogs).
 
-This week's ingredient POOL — you choose the sensible combinations (you decide what pairs well):
+{history_block}This week's ingredient POOL — you choose the sensible combinations (you decide what pairs well):
   Proteins:   {proteins}
   Vegetables: {vegetables}
   Cuisines:   {cuisines}
@@ -25,3 +25,10 @@ Also propose:
 - 1 legume dish from: {legumes} - in whatever cuisine fits best.
 - 1 fruit-sweetened dessert (minimal added sugar) from: {fruits} - pair it with an omega-3
   nut/seed (walnuts, ground flax, hemp, chia) and/or a calcium source like Greek yogurt or milk.
+
+Once we've picked our {target_dinners} dinners, the legume dish, and the dessert, output each
+chosen recipe so we can save it: a line `Filename: recipes/<slug>.md` (lowercase, hyphenated, no
+date), then exactly this format with the fields filled in (set last_made to {today}; leave rating
+and feedback blank):
+
+{recipe_template}

@@ -13,3 +13,8 @@ pool:
 
 legume_options: 2        # legume choices offered for the weekly legume dish
 dessert_options: 2       # fruit choices offered for the dessert
+
+# Recipe history (optional; omit this block for the defaults, or set max_entries: 0 to disable).
+history:
+  max_entries: 100       # most-recent past recipes to show Claude
+  recent_days: 14        # window for the "don't repeat if cooked recently" rule
