@@ -18,6 +18,9 @@ pip install -r requirements.txt
 python plan_week.py
 ```
 
+On macOS you can instead double-click **`plan_week.command`** in Finder — it runs the planner and
+copies the prompt straight to your clipboard.
+
 Then:
 
 1. Paste the prompt into a Claude session **with web search enabled**.
